@@ -1,0 +1,17 @@
+.skills-group {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.skill-badge {
+  display: flex;
+  flex-direction: row;
+  margin-right: 90px;
+}
+.ppp {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

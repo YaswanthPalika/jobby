@@ -1,0 +1,26 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 10vh;
+  max-width: 100vw;
+  padding: 20px;
+  background-color: #475569;
+}
+.div-links {
+  color: #fff;
+  text-decoration: none;
+  margin: 5px;
+}
+
+.logout-button {
+  background-color: #6366f1;
+  height: auto;
+  border: 0px;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+ul {
+  list-style-type: none;
+}
